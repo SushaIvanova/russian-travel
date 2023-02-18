@@ -7,4 +7,4 @@
 * Media Queries
 
 ##  GitHub Pages
-* [Ссылка на проект]()
+* [Ссылка на проект](https://sushaivanova.github.io/russian-travel/)
