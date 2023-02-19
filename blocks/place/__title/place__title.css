@@ -18,7 +18,8 @@
 @media screen and (max-width: 767px) {
   .place__title {
     line-height: 1.09;
-    padding: 0 16px 0;
+    padding-right: 16px;
+    padding-left: 16px;
   }
 }
 

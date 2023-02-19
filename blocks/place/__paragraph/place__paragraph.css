@@ -1,13 +1,14 @@
 .place__paragraph {
   margin: 0;
+  padding: 0;
 }
 
-.place__paragraph:first-of-type {
-  margin-bottom: 26px;
+.place__paragraph:nth-child(2) {
+  margin-top: 26px;
 }
 
 @media (max-width: 1023px) {
-  .place__paragraph:first-of-type {
-    margin-bottom: 25px;
+  .place__paragraph:nth-child(2) {
+    margin-top: 25px;
   }
 }

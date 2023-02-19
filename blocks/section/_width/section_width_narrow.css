@@ -1,9 +1,9 @@
-.section_narrow {
+.section_width_narrow {
   width: calc(100% - 100px*2);
 }
 
 @media (max-width: 1279px) {
-  .section_narrow {
+  .section_width_narrow {
     width: 100%;
   }
 }
