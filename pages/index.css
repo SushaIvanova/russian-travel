@@ -1,6 +1,7 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/page/__container/page__container.css);
 @import url(../blocks/section/section.css);
 @import url(../blocks/section/_width/section_width_narrow.css);
 @import url(../blocks/section/_device/section_device_laptop.css);
